@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-selfcheck.json
+
+# Java
+*.class
+*.log
+*.jar
+*.war
+*.ear
+target/
+.classpath
+.project
+.settings/
+
+# IDE specific
+.idea/
+*.iml
+.vscode/
+*.launch
+*.sub
+
+.DS_Store
